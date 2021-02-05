@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/release-please?activeTab=versions
 
+## [10.1.0](https://www.github.com/googleapis/release-please/compare/v10.0.0...v10.1.0) (2021-02-05)
+
+
+### Features
+
+* allow explicitly empty packageName when creating a release ([#743](https://www.github.com/googleapis/release-please/issues/743)) ([c3580c6](https://www.github.com/googleapis/release-please/commit/c3580c60c26af8c197f2ed3ee83736523c48f8fe))
+
 ## [10.0.0](https://www.github.com/googleapis/release-please/compare/v9.4.1...v10.0.0) (2021-02-03)
 
 
